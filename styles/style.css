@@ -82,7 +82,7 @@ h3{
     flex-direction: column;
     justify-content: center;
     height: 800px;
-    background-image: url(/assets/images/bgDown.png);
+    background-image: url(../assets/images/bgDown.png);
     background-size: cover;
 }
 
